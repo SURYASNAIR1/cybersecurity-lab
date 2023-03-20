@@ -1,4 +1,4 @@
-                             ANALYSING Nmap tool
+                                                 ANALYSING Nmap tool
 
  name:karthika p
  
@@ -112,10 +112,14 @@ g) Use the NMAP command to get OS information about a host.
 
 
 3) Use NMAP NSE to find all subdomains of the website
+ 
+ To find all subdomains of a website using Nmap, we can use the dns-brute script in the Nmap Scripting Engine (NSE). This script will perform a brute-force subdomain enumeration by querying a DNS server for a large number of possible subdomains.
 
 ![image](https://user-images.githubusercontent.com/122804908/226353334-058d9676-f768-448e-b61c-5e4d3dde383a.png)
 
 4)Perform a vulnerability scan on the target host using NMAP NSE.
+ 
+ Nmap includes a variety of scripts in the Nmap Scripting Engine NSE that can be used to perform vulnerability scans on target hosts
 
 ![image](https://user-images.githubusercontent.com/122804908/226400334-c214e61e-6276-4781-84ba-e62ce0eedf02.png)
 
