@@ -77,7 +77,8 @@ h) Explain ping sweeping and Perform ping sweeping using Nmap
 
 The Ping sweep is a starting point of discovery. it is a information gathering technique used  to find the live host by pinging them.One host like the user requests data and the receiver host accepts it, sends back packets of information in bytes.
 
-![image](https://user-images.githubusercontent.com/122804908/226339354-96f345f8-7d5f-4dc6-85c4-83a400e62b1c.png)
+![image](https://user-images.githubusercontent.com/122804908/226365706-ff43dbfe-2cb9-4b03-89ae-e99fba2c94f9.png)
+
 
 f)f) Use NMAP commands to export the output in XML format
 
@@ -86,7 +87,8 @@ f)f) Use NMAP commands to export the output in XML format
 
 g) Use the NMAP command to get OS information about a host. 
 
-![image](https://user-images.githubusercontent.com/122804908/226341765-e68c210e-60c6-41bf-9dea-3dd5fca01d2f.png)
+![image](https://user-images.githubusercontent.com/122804908/226364829-2f8bddb3-854c-4e2f-a278-1f8343fd21f4.png)
+
 
 
 1) What is a web application firewall? How do you use Nmap to detect a WAF? Perform WAF fingerprint detection using NMAP.
