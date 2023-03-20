@@ -95,16 +95,19 @@ g) Use the NMAP command to get OS information about a host.
 
 A web application firewall is designed to protect web apps by filtering, monitoring, and blocking any malicious incoming HTTP traffic while also preventing unauthorized data from leaving the application.
 
-![image](https://user-images.githubusercontent.com/122804908/226346581-82e17c31-4237-4640-b500-9053bdfca197.png)
+![image](https://user-images.githubusercontent.com/122804908/226391618-b2170985-ca53-49f9-8b0f-eefd54f30232.png)
 
-![image](https://user-images.githubusercontent.com/122804908/226347430-7b9eab12-daef-42ac-b358-95159c767680.png)
+![image](https://user-images.githubusercontent.com/122804908/226391768-63fb549f-617c-4622-877b-d8c61bde59f2.png)
+
 
 
 2) What is EXIF data? Try to find EXIF data of images on a website using NMAP NSE.
 
 EXIF stands for Exchangeable Image File Format. This data is in every image file a camera records.it contains metadata of the photo.
 
-![WhatsApp Image 2023-03-20 at 18 46 58](https://user-images.githubusercontent.com/122804908/226350220-d1f5756f-162c-4494-b99d-5f7b5ba83e85.jpg)
+![image](https://user-images.githubusercontent.com/122804908/226394013-ddad12e9-21d9-487e-ad71-f1cc37f43931.png)
+
+![image](https://user-images.githubusercontent.com/122804908/226395078-7b79a75e-885c-4f8f-8c99-5ef8516dcf8b.png)
 
 
 3) Use NMAP NSE to find all subdomains of the website
@@ -112,6 +115,9 @@ EXIF stands for Exchangeable Image File Format. This data is in every image file
 ![image](https://user-images.githubusercontent.com/122804908/226353334-058d9676-f768-448e-b61c-5e4d3dde383a.png)
 
 4)Perform a vulnerability scan on the target host using NMAP NSE.
+
+![image](https://user-images.githubusercontent.com/122804908/226400334-c214e61e-6276-4781-84ba-e62ce0eedf02.png)
+
 
 
 
