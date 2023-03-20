@@ -1,6 +1,7 @@
                              ANALYSING Nmap tool
 
  name:karthika p
+ 
  roll no: cb.en.p2cys22001
 
 
@@ -93,7 +94,7 @@ g) Use the NMAP command to get OS information about a host.
 
 1) What is a web application firewall? How do you use Nmap to detect a WAF? Perform WAF fingerprint detection using NMAP.
 
-A web application firewall is designed to protect web apps by filtering, monitoring, and blocking any malicious incoming HTTP traffic while also preventing unauthorized data from leaving the application.
+ A web application firewall is designed to protect web apps by filtering, monitoring, and blocking any malicious incoming HTTP traffic while also preventing  unauthorized data from leaving the application.
 
 ![image](https://user-images.githubusercontent.com/122804908/226391618-b2170985-ca53-49f9-8b0f-eefd54f30232.png)
 
@@ -103,7 +104,7 @@ A web application firewall is designed to protect web apps by filtering, monitor
 
 2) What is EXIF data? Try to find EXIF data of images on a website using NMAP NSE.
 
-EXIF stands for Exchangeable Image File Format. This data is in every image file a camera records.it contains metadata of the photo.
+ EXIF stands for Exchangeable Image File Format. This data is in every image file a camera records.it contains metadata of the photo.
 
 ![image](https://user-images.githubusercontent.com/122804908/226394013-ddad12e9-21d9-487e-ad71-f1cc37f43931.png)
 
