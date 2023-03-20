@@ -8,6 +8,9 @@ Nmap scanning of whole services :
  
 Nmap is used to scan the networks ,to know the active host ,numberts of ports open ,detailed information of IP's activated in the network .since nmap is used to scan within spefific range of IP address.
 
+![image](https://user-images.githubusercontent.com/122804908/226338685-a865de3a-de6a-41b0-9614-64470aefa9b8.png)
+
+
 2) What is a firewall and mention its types. Use the NMAP command to detect that a firewall protects  the host.
 
 FIREWALL:
@@ -44,7 +47,16 @@ cloud firewall:
 
 Cloud firewalls are typically maintained and run on the Internet by third-party vendors. This type of firewall is considered similar to a proxy firewall. 
 
+Nmap is used to find out whether the host is protected by firewall or not
+
+![image](https://user-images.githubusercontent.com/122804908/226339023-ca5e478a-0980-45dc-b6c8-69b706dfccfd.png)
+
+
 3)Use the NMAP command to scan a network and determine which devices are up and running.
+
+![image](https://user-images.githubusercontent.com/122804908/226339195-efe73645-f139-4b1a-a6d4-bd499790f36b.png)
+
+
 
 4) What are vertical and horizontal scanning?
 
