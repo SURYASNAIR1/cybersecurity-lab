@@ -1,4 +1,10 @@
-1)Explain the subnet and use the NMAP Command to scan the services for the whole subnet.
+                             ANALYSING Nmap tool
+
+ name:karthika p
+ roll no: cb.en.p2cys22001
+
+
+a)Explain the subnet and use the NMAP Command to scan the services for the whole subnet.
  
 SUBNETTING:
  
@@ -8,10 +14,10 @@ Nmap scanning of whole services :
  
 Nmap is used to scan the networks ,to know the active host ,numberts of ports open ,detailed information of IP's activated in the network .since nmap is used to scan within spefific range of IP address.
 
-![image](https://user-images.githubusercontent.com/122804908/226338685-a865de3a-de6a-41b0-9614-64470aefa9b8.png)
+![image](https://user-images.githubusercontent.com/122804908/226361305-7205825e-bc72-47fa-bf0a-4c8cbcc0661a.png)
 
 
-2) What is a firewall and mention its types. Use the NMAP command to detect that a firewall protects  the host.
+b) What is a firewall and mention its types. Use the NMAP command to detect that a firewall protects  the host.
 
 FIREWALL:
 
@@ -52,13 +58,12 @@ Nmap is used to find out whether the host is protected by firewall or not
 ![image](https://user-images.githubusercontent.com/122804908/226339023-ca5e478a-0980-45dc-b6c8-69b706dfccfd.png)
 
 
-3)Use the NMAP command to scan a network and determine which devices are up and running.
+c)Use the NMAP command to scan a network and determine which devices are up and running.
 
-![image](https://user-images.githubusercontent.com/122804908/226339195-efe73645-f139-4b1a-a6d4-bd499790f36b.png)
+![image](https://user-images.githubusercontent.com/122804908/226363367-9fef3992-c5ab-41fe-8f37-05f0172b2f62.png)
 
 
-
-4) What are vertical and horizontal scanning?
+d) What are vertical and horizontal scanning?
 
 VERTICAL SCANNING:
 
@@ -72,13 +77,44 @@ h) Explain ping sweeping and Perform ping sweeping using Nmap
 
 The Ping sweep is a starting point of discovery. it is a information gathering technique used  to find the live host by pinging them.One host like the user requests data and the receiver host accepts it, sends back packets of information in bytes.
 
+![image](https://user-images.githubusercontent.com/122804908/226339354-96f345f8-7d5f-4dc6-85c4-83a400e62b1c.png)
+
+f)f) Use NMAP commands to export the output in XML format
+
+![image](https://user-images.githubusercontent.com/122804908/226339866-f3eada99-f377-4fd0-8d8d-db8e0333e48f.png)
+
+
+g) Use the NMAP command to get OS information about a host. 
+
+![image](https://user-images.githubusercontent.com/122804908/226341765-e68c210e-60c6-41bf-9dea-3dd5fca01d2f.png)
+
+
 1) What is a web application firewall? How do you use Nmap to detect a WAF? Perform WAF fingerprint detection using NMAP.
 
 A web application firewall is designed to protect web apps by filtering, monitoring, and blocking any malicious incoming HTTP traffic while also preventing unauthorized data from leaving the application.
 
+![image](https://user-images.githubusercontent.com/122804908/226346581-82e17c31-4237-4640-b500-9053bdfca197.png)
+
+![image](https://user-images.githubusercontent.com/122804908/226347430-7b9eab12-daef-42ac-b358-95159c767680.png)
+
+
 2) What is EXIF data? Try to find EXIF data of images on a website using NMAP NSE.
 
 EXIF stands for Exchangeable Image File Format. This data is in every image file a camera records.it contains metadata of the photo.
+
+![WhatsApp Image 2023-03-20 at 18 46 58](https://user-images.githubusercontent.com/122804908/226350220-d1f5756f-162c-4494-b99d-5f7b5ba83e85.jpg)
+
+
+3) Use NMAP NSE to find all subdomains of the website
+
+![image](https://user-images.githubusercontent.com/122804908/226353334-058d9676-f768-448e-b61c-5e4d3dde383a.png)
+
+4)Perform a vulnerability scan on the target host using NMAP NSE.
+
+
+
+
+
 
 
 
