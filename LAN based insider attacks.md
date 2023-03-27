@@ -10,9 +10,9 @@ to login in the website from the host ,we can get the credentials they have ente
 
 2. Perform Denial of Service (DoS) attacks using ARP Cache Poisoning attacks
 
-A denial-of-service attack is a cyberattack that makes a computer or other device unavailable to its intended users. we have fixed target and then we have used arp poisioning dos attack plug in and then when we tried to enter the webites 
+A denial-of-service attack is a cyberattack that makes a computer or other device unavailable to its intended users. we have fixed target and then we have used arp 
 
-in the host,it cannot be accessed.
+poisioning dos attack plug in and then when we tried to enter the webites in the host,it cannot be accessed.
 
 ![image](https://user-images.githubusercontent.com/122804908/227956964-f583f7a1-cb94-4c7a-bacb-6a251c6eb231.png)
 
@@ -38,6 +38,8 @@ we have entered the corresponding website and its spoof ip in the dns page.
 ![image dns](https://user-images.githubusercontent.com/122804908/227959810-707130f8-aa15-42bf-bc2d-9a371bfd65bc.jpg)
 
 In this dns attack  we have swapped the ip address of the given website as our ip address so it will direct to our own malicious webpage.
+
+4. Invoke ‘sslstrip tool’ for stealing passwords from any machine that is connected to a LAN by stripping the HTTPS connection. 
 
 
 
