@@ -1,6 +1,14 @@
+                                                    LAN based insider attack
+name:karthika p         
+roll no:cb.en.p2cys22001
+
+
+
 1. Perform Password stealing (over plaintext) using ARP Cache Poisoning attacks
 
-Here we have used ettercap to find out the  credentials typing in the target website.In this we have fixed target host and then we have started arp poisioning in the host and then we have tried 
+Here we have used ettercap to find out the  credentials typing in the target website.In this we have fixed target host and then we have started arp poisioning in the 
+
+host and then we have tried 
 
 to login in the website from the host ,we can get the credentials they have entered.
 
@@ -21,7 +29,9 @@ poisioning dos attack plug in and then when we tried to enter the webites in the
 
 3. Perform DNS Spoofing attack using ARP Cache Poisoning attacks
 
- DNS Attack is any attack targeting the availability or stability of a network's DNS service. Here we have tried to get the page which we have created instead of the original login page.
+ DNS Attack is any attack targeting the availability or stability of a network's DNS service. Here we have tried to get the page which we have created instead of the 
+ 
+ original login page.
  
  ![image](https://user-images.githubusercontent.com/122804908/227957780-5156bed0-1df3-40eb-826a-95acdb22222a.png)
 
@@ -45,7 +55,8 @@ It is an action performed by a malicious user that leads to a downgrade from an 
 
 the etter.conf file by making it as commands so, here the secured connection will be degraded into the unsecured connection,by making degraded version of website ,we
 
-can take the credentials 
+can take the credentials  and attack their host. This allows an attacker to intercept and read sensitive information such as usernames and passwords.
+
 
 ![image](https://user-images.githubusercontent.com/122804908/228022701-8589abb1-23e7-4993-b312-157589c3bbe5.png)
 
@@ -54,6 +65,30 @@ can take the credentials
 ![image](https://user-images.githubusercontent.com/122804908/228023176-9bf457fd-33ad-4683-aea3-49022a396099.png) 
 
 ![image](https://user-images.githubusercontent.com/122804908/228023223-d6767841-a4cc-4d6e-9df4-717a5929bae6.png)
+
+5. Use arp_cop and scan_poisoner plugins to learn about the detection of ARP attacks
+
+The arp_cop and scan_poisoner plugins are useful tools in Ettercap that can be used to detect ARP Cache Poisoning attacks.Once the arp_cop plugin has been enabled, 
+
+Ettercap will monitor the network for ARP Cache Poisoning attacks. If an attack is detected, Ettercap will display a warning message.
+
+![image1](https://user-images.githubusercontent.com/122804908/228026163-24c56e3d-f3b8-4180-a474-502ba346708b.jpg)
+
+Once the scan_poisoner plugin has been enabled, Ettercap will scan the network for hosts that are sending out ARP packets. If a host is detected that is sending out a 
+
+large number of ARP packets, Ettercap will display a warning message.
+
+![image2](https://user-images.githubusercontent.com/122804908/228026424-c0e2126f-c86b-4a1e-90a7-9d905f510ac1.jpg)
+
+
+
+
+
+
+
+
+
+
 
 
 
