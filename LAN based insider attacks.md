@@ -14,6 +14,10 @@ to login in the website from the host ,we can get the credentials they have ente
 
 ![image](https://user-images.githubusercontent.com/122804908/227955793-3f3b25c9-9328-4db6-8bc9-f7d40fc42efa.png)
 
+
+![image](https://user-images.githubusercontent.com/122804908/228029111-1a83c3e7-c4b0-4344-81ff-f00b99995777.png)
+
+
 ![image](https://user-images.githubusercontent.com/122804908/227955852-73888b79-f9c4-47f1-adfe-95c96d0a3aa8.png)
 
 2. Perform Denial of Service (DoS) attacks using ARP Cache Poisoning attacks
@@ -26,6 +30,9 @@ poisioning dos attack plug in and then when we tried to enter the webites in the
 
 
 ![image](https://user-images.githubusercontent.com/122804908/227957060-9340e232-3374-4722-a05f-f9dafd8e4b57.png)
+
+![image](https://user-images.githubusercontent.com/122804908/228028841-bece34f0-f995-4533-ab22-bb8074aa1fb6.png)
+
 
 3. Perform DNS Spoofing attack using ARP Cache Poisoning attacks
 
