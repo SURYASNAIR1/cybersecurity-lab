@@ -41,6 +41,21 @@ In this dns attack  we have swapped the ip address of the given website as our i
 
 4. Invoke ‘sslstrip tool’ for stealing passwords from any machine that is connected to a LAN by stripping the HTTPS connection. 
 
+It is an action performed by a malicious user that leads to a downgrade from an HTTPS secure connection to a less secure encrypted HTTP connection. here we have edited 
+
+the etter.conf file by making it as commands so, here the secured connection will be degraded into the unsecured connection,by making degraded version of website ,we
+
+can take the credentials 
+
+![image](https://user-images.githubusercontent.com/122804908/228022701-8589abb1-23e7-4993-b312-157589c3bbe5.png)
+
+![image](https://user-images.githubusercontent.com/122804908/228023120-66b76128-4ce1-4050-a4db-e0026c751dc4.png)
+
+![image](https://user-images.githubusercontent.com/122804908/228023176-9bf457fd-33ad-4683-aea3-49022a396099.png) 
+
+![image](https://user-images.githubusercontent.com/122804908/228023223-d6767841-a4cc-4d6e-9df4-717a5929bae6.png)
+
+
 
 
  
