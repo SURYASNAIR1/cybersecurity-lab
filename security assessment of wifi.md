@@ -1,8 +1,8 @@
 
                                                  security assessment of wifi
   
-                                                                                                                             Roll no:CB.EN.P2CYS22001
-                                                                                                                             NAME:KARTHIKA P
+                                                                                                                        Roll no:CB.EN.P2CYS22001
+                                                                                                                        NAME:KARTHIKA P
 
 1.Learn the basic working of Wi-Fi and its types with various types of attacks on it. 
 
