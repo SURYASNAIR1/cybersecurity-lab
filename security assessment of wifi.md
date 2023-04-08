@@ -1,7 +1,7 @@
 
                                                       security assessment of wifi
   
-                                                                                                                             roll no:CB.EN.P2CYS22001
+                                                                                                                             Roll no:CB.EN.P2CYS22001
                                                                                                                              NAME:KARTHIKA P
 
 1.Learn the basic working of Wi-Fi and its types with various types of attacks on it. 
@@ -73,13 +73,20 @@ This information includes the physical type, MAC Address, and SSID of the device
 wigle:
 
 WiGLE (or Wireless Geographic Logging Engine) is a website for collecting information about the different wireless hotspots around the world. Users can register on the website and upload hotspot data like GPS coordinates,
-SSID, MAC address and the encryption type used on the hotspots discovered.
+SSID, MAC address and the encryption type used on the hotspots discovered.Here we have made the wifi adapter in the monitor mode and we have used airdump to scan the networks and then the output file is saved .The csv file can be uploaded in the wigle.net and then we can obtain the present location .
 
 ![image](https://user-images.githubusercontent.com/122804908/230724589-5f8c2e80-c909-4864-a0d6-827f897dab6f.png)
 
 ![image](https://user-images.githubusercontent.com/122804908/230724678-ae98b800-adbd-42f0-9f47-528fb7dc90dd.png)
 
 ![image](https://user-images.githubusercontent.com/122804908/230724730-59538a2d-1595-47a9-973b-a14c59481060.png)
+
+Insider:
+
+Inssider is a Wi-Fi network scanning tool that allows users to analyze the wireless landscape around them. It can be used to detect and identify nearby Wi-Fi networks, analyze their signal strength, channel usage, and security status.
+
+![insidder](https://user-images.githubusercontent.com/122804908/230734461-8355cfc5-e81a-4685-b58d-7873adcaaee5.jpg)
+
 
 3)CreateanAccess pointwith any Wi-Fi encryption standard and start testingthe security of that connectionusing any Wi-Fi security testing tools,which should include (Aircrack-Ng, Wifite, not limited).Try to capture the 4-wayhandshake using these methods.
 
@@ -116,14 +123,16 @@ a.You mustuse an existing word file to crack the password.
 b.Also you have to create your dictionaryfilefor cracking the passwords.
 c.Keep 3 different types of passwordsforyour Wi-Fi to test it. Simple, medium,and complex passwords can be used for testing. Simple can be a dictionary word, medium can be of dictionaryword with some numbers, and complex can be generated from any password generator online. 
 
+we have captured the handshake by following the procedure above of the following , we have used the fasttrack.txt file to crack the password 
 ![image](https://user-images.githubusercontent.com/122804908/230729853-df049dc2-1bce-4bcb-9ded-12f9f82011d5.png)
 
+Here we have created cracking20-02.txt file ,to crack the password. 
 ![image](https://user-images.githubusercontent.com/122804908/230729862-e9057f82-1d12-4d87-86ec-79c689aec93e.png)
 
-![(https://user-images.githubusercontent.com/122804908/230730790-437f887f-2cf2-4ed7-9fd8-88a3d78c5eea.jpg)
-
+![Wifi file](https://user-images.githubusercontent.com/122804908/230730888-550d9cbc-44c5-4914-8101-257fcf29aadc.jpg)
 
 ![image](https://user-images.githubusercontent.com/122804908/230729881-42ceb39a-8725-4bcc-9c9b-bfeef5b76b56.png)
+
 
 6.Learn the protocol level working of WPA3 and how it differsfrom WPA2.
 
