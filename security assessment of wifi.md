@@ -120,6 +120,8 @@ c.Keep 3 different types of passwordsforyour Wi-Fi to test it. Simple, medium,an
 
 ![image](https://user-images.githubusercontent.com/122804908/230729862-e9057f82-1d12-4d87-86ec-79c689aec93e.png)
 
+![(https://user-images.githubusercontent.com/122804908/230730790-437f887f-2cf2-4ed7-9fd8-88a3d78c5eea.jpg)
+
 
 ![image](https://user-images.githubusercontent.com/122804908/230729881-42ceb39a-8725-4bcc-9c9b-bfeef5b76b56.png)
 
