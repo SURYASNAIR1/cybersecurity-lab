@@ -110,4 +110,20 @@ In order to capture the encrypted password, we need to have the client authentic
 
 airodump-ng will attempt to grab their password in the new 4-way handshake.
 
+4.After capturing the required filesfortesting, usedictionarygeneration and password cracking tools to crack the Wi-Fi password. 
+
+a.You mustuse an existing word file to crack the password.
+b.Also you have to create your dictionaryfilefor cracking the passwords.
+c.Keep 3 different types of passwordsforyour Wi-Fi to test it. Simple, medium,and complex passwords can be used for testing. Simple can be a dictionary word, medium can be of dictionaryword with some numbers, and complex can be generated from any password generator online. 
+
+![image](https://user-images.githubusercontent.com/122804908/230729853-df049dc2-1bce-4bcb-9ded-12f9f82011d5.png)
+
+![image](https://user-images.githubusercontent.com/122804908/230729862-e9057f82-1d12-4d87-86ec-79c689aec93e.png)
+
+
+![image](https://user-images.githubusercontent.com/122804908/230729881-42ceb39a-8725-4bcc-9c9b-bfeef5b76b56.png)
+
+6.Learn the protocol level working of WPA3 and how it differsfrom WPA2.
+
+WPA3 (Wi-Fi Protected Access 3) is the latest security protocol for Wi-Fi networks, designed to improve upon the previous security standard, WPA2.The WPA3 protocol is designed to address the vulnerabilities and shortcomings of WPA2, which had become increasingly susceptible to attacks due to the hacking techniques.WPA3 security is designed to help prevent ,Rather than relying on shared passwords, WPA3 signs up new devices through processes that don’t require the use of a shared password.WPA3 encryption is geared to be better than previous iterations of WiFi technology.This new system, called Wi-Fi Device Provisioning Protocol (DPP), works by transmitting how to gain access to the system without transmitting a password into the air. With DPP, users use QR codes or NFC tags to let devices onto the network.28-bit encryption in WPA3-Personal mode (192-bit in WPA3-Enterprise) and forward secrecy. WPA3 also replaces the Pre-Shared Key (PSK) exchange with Simultaneous Authentication of Equals, a more secure way to do initial key exchange. The old WPA2 security has been proven vulnerable to hardware-level attacks and password vulnerabilities (using an easy password is still a dumb move). To help prevent new vulnerabilities from affecting WPA, the updated standard uses a new type of handshake that adds extra protection against password-crackers and similar brute force types of hacking.
 
