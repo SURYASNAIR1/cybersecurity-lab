@@ -99,3 +99,15 @@ This command grabs all the traffic of wireless adapter can see and displays crit
 ![image](https://user-images.githubusercontent.com/122804908/230725442-e2b85ce7-cc2e-47c3-91bb-ebf822b88cb0.png)
 
 we're now focusing on capturing data from one AP with a ESSID of 46:49:F9:20:FC:06  on channel 6 and capture critical data from it.
+
+![image](https://user-images.githubusercontent.com/122804908/230725727-951e8d20-5c44-4d00-802b-45caead8691c.png)
+
+In order to capture the encrypted password, we need to have the client authenticate against the AP. If they're already authenticated, we can de-authenticate them  and their system will automatically re-authenticate, where we can grab their encrypted password in the process.
+
+![image](https://user-images.githubusercontent.com/122804908/230726160-a5aa9171-c15c-4917-8dc1-d5ec2244a510.png)
+
+![image](https://user-images.githubusercontent.com/122804908/230726187-bfa71608-d1fb-4111-8716-39222abcfa71.png)
+
+airodump-ng will attempt to grab their password in the new 4-way handshake.
+
+
