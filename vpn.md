@@ -5,6 +5,13 @@
    
    1)Create an IPsec-based VPN with the help of the Strongswan tool. 
    
+   First we have installed the strongswan in both kali (as site A) and ubuntu( as Site b) and then we have checked  whether it is enabled or not.Configure the kernel 
+   
+   to enable packet forwarding for IPv4. Edit the configuration file in both the sites A & B.Generate a secure PSK and Add the Key to /etc/ipsec.secrets file in both 
+   
+   the sites . we have to make a copy of the configuration file then set up the VPN configuration on that file.Restart the VPN on both gateways and check the status 
+   
+   and  we  have to verify both gateways are connected securely.
    
     ![WhatsApp Image 2023-04-23 at 23 08 53](https://user-images.githubusercontent.com/122804908/233855660-1edc498e-1520-4877-ae9e-a3e6071ea21b.jpg)
 
@@ -21,8 +28,6 @@
 ![WhatsApp Image 2023-04-23 at 23 16 28](https://user-images.githubusercontent.com/122804908/233856096-31a554a4-548a-49f7-947f-f605aef75e19.jpg)
 
 ![WhatsApp Image 2023-04-23 at 23 17 00](https://user-images.githubusercontent.com/122804908/233856110-8df19eb8-246c-4a3d-81b3-0904729131ae.jpg)
-
-![Uploading WhatsApp Image 2023-04-23 at 23.17.00.jpg…]
 
 ![WhatsApp Image 2023-04-23 at 23 18 55](https://user-images.githubusercontent.com/122804908/233856218-84ba300c-707b-44ad-abde-3f8fb685f679.jpg)
 
