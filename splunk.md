@@ -1,7 +1,23 @@
 
 
 
-1. Understand the architecture of Splunk and the installation process. Setup collector and forwarder, then ensure the logs are accumulated in Splunk. Familiarize yourself with the dashboard fields.
+1. Understand the architecture of Splunk and the installation process. Setup collector and forwarder, then ensure the logs are accumulated in Splunk. 
+Familiarize yourself with the dashboard fields.
+
+A Splunk Enterprise server installs a process on  host, splunkd.splunkd is a distributed C/C++ server that accesses, processes and indexes streaming IT 
+
+data. It also handles search requests. splunkd processes and indexes of data by streaming it through a series of pipelines, each made up of a series of 
+
+processors.splunkd also provides the Splunk Web user interface. It lets users search and navigate data and manage Splunk Enterprise deployment through a 
+
+Web interface. It communicates with your Web browser through REpresentational State Transfer (REST).splunkd runs a Web server on port 8089 with SSL/HTTPS 
+
+turned on by default.It also runs a Web server on port 8000 with SSL/HTTPS turned off by default.Splunk Enterprise processes require network connectivity.
+
+
+![image](https://github.com/karthu12/cybersecurity-lab/assets/122804908/e26b34e3-f971-4741-bdf8-884819dc6b21)
+
+
 
 ![image](https://github.com/karthu12/cybersecurity-lab/assets/122804908/7f4e68b1-7a0c-412e-b063-de7d216788d5)
 
@@ -74,6 +90,9 @@
 ![image](https://github.com/karthu12/cybersecurity-lab/assets/122804908/cac94d9f-2574-4237-adb6-ccaf2eab6c57)
 
 ![image](https://github.com/karthu12/cybersecurity-lab/assets/122804908/29adb1a9-1945-4100-ac9a-73b8f1174bdb)
+
+![image](https://github.com/karthu12/cybersecurity-lab/assets/122804908/40cb9f4e-ae0c-460a-b692-68eff6c8b9a5)
+
 
 
 
