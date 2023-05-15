@@ -80,9 +80,11 @@ turned on by default.It also runs a Web server on port 8000 with SSL/HTTPS turne
 
 3)
 
-![image](https://github.com/karthu12/cybersecurity-lab/assets/122804908/cac94d9f-2574-4237-adb6-ccaf2eab6c57)
+![image](https://github.com/karthu12/cybersecurity-lab/assets/122804908/f6ae3cd3-e6c5-4908-85ab-d84be02301e6)
 
-![image](https://github.com/karthu12/cybersecurity-lab/assets/122804908/29adb1a9-1945-4100-ac9a-73b8f1174bdb)
+![image](https://github.com/karthu12/cybersecurity-lab/assets/122804908/62ee46db-ab80-42fe-96c2-ec35c9a2d763)
+
+![image](https://github.com/karthu12/cybersecurity-lab/assets/122804908/b9176146-f2a8-434b-9167-d0b2fc2cf812)
 
 ![image](https://github.com/karthu12/cybersecurity-lab/assets/122804908/40cb9f4e-ae0c-460a-b692-68eff6c8b9a5)
 
