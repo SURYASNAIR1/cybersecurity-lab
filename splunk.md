@@ -102,6 +102,7 @@ we have searched query based on access.log.1 and the get request in the search q
 
 5)5. Run Splunk >> Forwarder can be in the same system or another system (user’s convenience) >>Make sure the logs are indexing in the Splunk enterprise.Logout of the target system and perform multiple failed attempts. Then use the search section to filter out the failed attempt logs. Hint: Use the “stats” command.Analyze the log file and create an alert for any further similar activities.
 
+Here we have tried to login into the kali ,then by analysing the log in the splunk forwarder ,we can analyse by entering authentication in the query of splunk.
 
 ![image](https://github.com/karthu12/cybersecurity-lab/assets/122804908/098d01ce-f4a7-48a2-92aa-5e5d123e8683)
 
