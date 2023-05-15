@@ -56,9 +56,7 @@ Here ,The universal forwarder is downloaded in kali linux and then we have forwa
 2)2. Run Splunk >> Forwarder can be in the same system or another system (user’s convenience) >>Make sure the logs are indexing in the Splunk enterprise. Run any network and port scanning commands from the host to the target machine. Run at least 5 to 8 commands. (If required, any tools can also be used).
 
 Here we have created scan.log file into the /var/log file .The nmap commands output is saved into the scan.log file by using nmapcommands>>scan.log
-
 the nmap commands are nmap -o ,-sV,-A,finding host in subnet is performed. the the logs are forwarded into the enterprise.the name of the log file is used 
-
 to scan the log of nmap commands are done.
 
 
@@ -86,7 +84,6 @@ to scan the log of nmap commands are done.
 3) Run Splunk >> Forwarder can be in the same system or another system (user’s convenience) >>Make sure the logs are indexing in the Splunk enterprise. Perform any communication using unencrypted traffic.Use the Splunk search section to check the firewall logs to analyze which application uses unencrypted data.Analyze the log file and create an alert for any further similar activities.
 
 Here we have entered into the vulnerable website , the logs are saved and then forwarded the log into the splunk enterprise.In the splunk ,
-
 we have searched query based on access.log.1 and the get request in the search query field,so we obtained the searches in the kali.
 
 ![image](https://github.com/karthu12/cybersecurity-lab/assets/122804908/f6ae3cd3-e6c5-4908-85ab-d84be02301e6)
