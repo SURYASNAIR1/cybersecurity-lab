@@ -84,10 +84,7 @@ to scan the log of nmap commands are done.
 ![image](https://github.com/karthu12/cybersecurity-lab/assets/122804908/545321a2-2ddc-4514-8cbd-24f23298a62c)
 
 
-3) Run Splunk >> Forwarder can be in the same system or another system (user’s convenience) 
->>Make sure the logs are indexing in the Splunk enterprise. Perform any communication using unencrypted traffic.
-Use the Splunk search section to check the firewall logs to analyze which application uses unencrypted data.
-Analyze the log file and create an alert for any further similar activities.
+3) Run Splunk >> Forwarder can be in the same system or another system (user’s convenience) >>Make sure the logs are indexing in the Splunk enterprise. Perform any communication using unencrypted traffic.Use the Splunk search section to check the firewall logs to analyze which application uses unencrypted data.Analyze the log file and create an alert for any further similar activities.
 
 Here we have entered into the vulnerable website , the logs are saved and then forwarded the log into the splunk enterprise.In the splunk ,
 
