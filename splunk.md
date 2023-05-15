@@ -8,13 +8,9 @@
 Familiarize yourself with the dashboard fields.
 
 A Splunk Enterprise server installs a process on  host, splunkd.splunkd is a distributed C/C++ server that accesses, processes and indexes streaming IT 
-
 data. It also handles search requests. splunkd processes and indexes of data by streaming it through a series of pipelines, each made up of a series of 
-
 processors.splunkd also provides the Splunk Web user interface. It lets users search and navigate data and manage Splunk Enterprise deployment through a 
-
 Web interface. It communicates with your Web browser through REpresentational State Transfer (REST).splunkd runs a Web server on port 8089 with SSL/HTTPS 
-
 turned on by default.It also runs a Web server on port 8000 with SSL/HTTPS turned off by default.Splunk Enterprise processes require network connectivity.
 
 
