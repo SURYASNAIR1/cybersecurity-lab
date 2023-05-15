@@ -1,5 +1,7 @@
+                                                 LOG ANALYSIS USING SIEM
 
-
+ ROLL NO:CB.EN.P2CYS22001
+ NAME:KARTHIKA P
 
 1. Understand the architecture of Splunk and the installation process. Setup collector and forwarder, then ensure the logs are accumulated in Splunk. 
 Familiarize yourself with the dashboard fields.
