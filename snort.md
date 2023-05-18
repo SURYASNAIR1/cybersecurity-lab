@@ -35,9 +35,26 @@ task 5:
 
 Sniffing with parameter "-v":
 
+Prints out the TCP/IP packets header on the screen
+
 ![image](https://github.com/karthu12/cybersecurity-lab/assets/122804908/41ba083e-9497-4a5a-9c82-05037a447b87)
 
+sniffing with parameter "-de":
 
 
+
+![image](https://github.com/karthu12/cybersecurity-lab/assets/122804908/61538b4d-c537-4f30-a84e-4d8edf02bc76)
+
+sniffing with parameter "-x":
+
+Displays the full packet details in HEX.
+
+![image](https://github.com/karthu12/cybersecurity-lab/assets/122804908/4454f807-35d9-413d-ad0a-fd22090731cd)
+
+task 6: 
+
+packet logger mode: it will logs packet to the disk
+
+![image](https://github.com/karthu12/cybersecurity-lab/assets/122804908/0369fd1b-30a8-4f63-aeb1-da79d7778f8e)
 
 
