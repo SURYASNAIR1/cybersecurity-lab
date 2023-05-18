@@ -32,9 +32,11 @@ Test the current instance with "/etc/snort/snortv2.conf" file and check how many
 ![image](https://github.com/karthu12/cybersecurity-lab/assets/122804908/acf96334-c2c7-44dc-985e-1793b1604ea6)
 
 task 5:
+
 Sniffing with parameter "-v":
 
 ![image](https://github.com/karthu12/cybersecurity-lab/assets/122804908/41ba083e-9497-4a5a-9c82-05037a447b87)
+
 
 
 
