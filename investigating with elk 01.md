@@ -75,3 +75,25 @@ we have to search  the query language unitedstates and james or albert
 
 As User Johny Brown was terminated on 1st January 2022, create a search query to determine how many times a VPN connection was observed after his termination.
 
+1
+
+TASK 7:
+
+Which user was observed with the greatest number of failed attempts?
+
+Here we have used action  and then logged into failed attempts.
+
+![image](https://github.com/karthu12/cybersecurity-lab/assets/122804908/aef80681-3e4c-40aa-9998-a99ff6d18b5c)
+
+How many wrong VPN connection attempts were observed in January?
+
+Here  we have filtered the month of january and then used the action:failed attempts to visualize the data. 
+
+![image](https://github.com/karthu12/cybersecurity-lab/assets/122804908/c99d54a1-04e8-45aa-b631-cc9e06dd6abb)
+
+
+
+
+
+
+
